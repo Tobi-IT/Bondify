@@ -1,5 +1,5 @@
 # DIY Mobile Bonding Router with Raspberry Pi and OpenMPTCProuter
-
+## DONT FOLLOW THIS ITS A TEST WRITTEN BY AI
 ## Introduction
 
 This project outlines the steps to create a Do-It-Yourself (DIY) mobile internet bonding router using a Raspberry Pi and multiple LTE USB modems. The goal is to aggregate the bandwidth of several mobile connections to achieve higher speeds and better reliability in locations with poor individual carrier performance. This setup serves as a self-hosted alternative to commercial services like Speedify, by leveraging your own home server to bundle the connections.
